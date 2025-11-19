@@ -5,4 +5,5 @@
 return {
   { 'christoomey/vim-tmux-navigator' },
   { 'github/copilot.vim' },
+  { 'nvim-treesitter/nvim-treesitter-context' },
 }
